@@ -1,4 +1,4 @@
-![output_1](https://github.com/nirosha250106/softweb/assets/149044541/2ed741a5-85bd-4b5d-a75e-012a393f592d)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:

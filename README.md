@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+![output_1](https://github.com/nirosha250106/softweb/assets/149044541/2ed741a5-85bd-4b5d-a75e-012a393f592d)# Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:
@@ -434,10 +434,13 @@ footer {
  }
 ```
 ## OUTPUT:
-![op1](output_1.jpg)
-![op2](output_2.jpg)
-![op3](output_3.jpg)
-![op4](output_4.jpg)
+![output_1](https://github.com/nirosha250106/softweb/assets/149044541/6842a407-3e21-4212-8d18-bc8dbbe41de5)
+
+![output_2](https://github.com/nirosha250106/softweb/assets/149044541/65cf7f2f-e044-45a7-b2e2-e34159ebdb99)
+![output_3](https://github.com/nirosha250106/softweb/assets/149044541/33efb326-cfb5-446d-a2f1-01f6ea21c653)
+![output_4](https://github.com/nirosha250106/softweb/assets/149044541/7790e826-4375-427f-853c-c4ccd580b08d)
+
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:30/04/2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -29,7 +29,6 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 
-Home page
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -78,7 +77,6 @@ Home page
 </body>
 </html>
 ```
-Menu page
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -127,7 +125,6 @@ Menu page
 </body>
 </html>
 ```
-Our Team
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -189,7 +186,6 @@ Our Team
         </div>
       </div>
 ```
-contact page
 ```html
 <!DOCTYPE html>
 <html lang="en">
